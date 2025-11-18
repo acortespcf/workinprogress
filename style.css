@@ -67,6 +67,9 @@ html {
   font-size: 62.5%
 }
 
+.cloudflare-debug {
+  visibility: hidden;
+}
 
 .wrapper {
   margin: 0 auto;
